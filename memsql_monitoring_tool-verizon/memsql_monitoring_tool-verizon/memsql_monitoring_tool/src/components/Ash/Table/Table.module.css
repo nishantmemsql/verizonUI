@@ -1,0 +1,7 @@
+.Backdrop {
+  background-color: rgba(48, 49, 48, 0.42);
+  height: 100%;
+  position: fixed;
+  transition: all 1.3s;
+  width: 100%;
+}

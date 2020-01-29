@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.success_cell {
+    color: #316100;
+    background-color: #dff1cc;
+    border-color: #d2ecb8;
+}
+
+.danger_cell {
+    color: #6b1110;
+    background-color: #f5d2d2;
+    border-color: #f1c1c0;
+}
+
+.info_cell {
+    color: darkblue;
+    background-color: lightblue;
+    border-color: aliceblue;
+}
+
+.warn_cell {
+    color: orangered;
+    background-color: yellow;
+    border-color: aliceblue;
+}

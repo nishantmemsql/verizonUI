@@ -1,0 +1,13 @@
+.DatePicker {
+  max-width: 80px;
+  height: 40px;
+  margin: 5px 5px 5px 5px
+}
+
+.fromto {
+  margin: 5px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
